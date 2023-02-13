@@ -1,0 +1,2 @@
+# Public-Sentiments-and-Concerns-Towards-Vaccine-Passports
+The goal of this is to identify public sentiments and concerns towards vaccine passport by analyzing discussions about vaccine passport on Twitter. To achieve this, vaccine passport related tweets were collected and classified into positive and negative sentiments using a lexicon-based sentiment classifier and Machine Learning algorithms. Also, topic modelling was performed on the negative tweets to identify the concerns on vaccine passports and the NRCLex was used to categorize tweets into different emotions.
